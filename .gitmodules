@@ -1,0 +1,21 @@
+[submodule "xdp-tutorial"]
+	path = xdp-tutorial
+	url = git@github.com:xdp-project/xdp-tutorial.git
+[submodule "xdp-tools"]
+	path = xdp-tools
+	url = git@github.com:xdp-project/xdp-tools.git
+[submodule "xdp-project"]
+	path = xdp-project
+	url = git@github.com:xdp-project/xdp-project.git
+[submodule "bpf-examples"]
+	path = bpf-examples
+	url = git@github.com:xdp-project/bpf-examples.git
+[submodule "libbpf-bootstrap"]
+	path = libbpf-bootstrap
+	url = git@github.com:libbpf/libbpf-bootstrap.git
+[submodule "libpcap"]
+	path = libpcap
+	url = git@github.com:the-tcpdump-group/libpcap.git
+[submodule "tcpdump"]
+	path = tcpdump
+	url = git@github.com:the-tcpdump-group/tcpdump.git
