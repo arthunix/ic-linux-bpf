@@ -31,4 +31,7 @@ if [[ "$add_num" > 0 ]]; then
                 sudo ip route add $in_addr dev $devname
         done
 fi
+
 sudo systemctl restart networking.service
+ip a
+ip route s
