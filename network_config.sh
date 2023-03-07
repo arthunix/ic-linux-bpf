@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ip a
-route s
+ip route s
 
 read -p "please put the name of the device: " devname
 
