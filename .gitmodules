@@ -19,3 +19,18 @@
 [submodule "tcpdump"]
 	path = tcpdump
 	url = git@github.com:the-tcpdump-group/tcpdump.git
+[submodule "katran"]
+	path = katran
+	url = git@github.com:facebookincubator/katran.git
+[submodule "cilium"]
+	path = cilium
+	url = git@github.com:cilium/cilium.git
+[submodule "tetragon"]
+	path = tetragon
+	url = git@github.com:cilium/tetragon.git
+[submodule "bcc"]
+	path = bcc
+	url = git@github.com:iovisor/bcc.git
+[submodule "bpftrace"]
+	path = bpftrace
+	url = git@github.com:iovisor/bpftrace.git
